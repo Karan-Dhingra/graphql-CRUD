@@ -42,8 +42,8 @@ const projects = [
     },
   ];
   
-  // Clients
-  const clients = [
+// Clients
+const clients = [
     {
       id: '1',
       name: 'Tony Stark',
@@ -75,5 +75,4 @@ const projects = [
       phone: '321-468-8887',
     },
   ];
-  
-  module.exports = { projects, clients };
+module.exports = { projects, clients };
